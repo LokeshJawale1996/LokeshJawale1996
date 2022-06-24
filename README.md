@@ -9,6 +9,8 @@
 
 📫 Feel Free to Reach me @ **lokeshjawale@1996@gmail.com**
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lokeshjawale1996&show_icons=true&locale=en&layout=compact" alt="lokeshjawale1996" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lokeshjawale1996&show_icons=true&locale=en" alt="lokeshjawale1996" /></p>
 
 <!--
