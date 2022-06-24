@@ -15,7 +15,6 @@
   <a href="https://www.hackerrank.com/lokeshjawale1996" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="lokesh-hackerrank" height="30" width="40" /></a>
 
 </p>
-https://www.hackerrank.com/lokeshjawale1996
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lokeshjawale1996&show_icons=true&locale=en&layout=compact" alt="lokeshjawale1996" /></p>
 
