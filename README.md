@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lokeshjawale1996" alt="lokeshjawale1996" /></a> </p>
 
-📫 Feel Free to Reach me @ **lokeshjawale@1996@gmail.com**
+📫 Feel Free to Reach me  **lokeshjawale@1996@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/lokesh-jawale-41a223192/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" alt="lokesh-jawale" height="30" width="40" /></a>
