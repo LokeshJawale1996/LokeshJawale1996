@@ -9,6 +9,7 @@
 
 📫 Feel Free to Reach me @ **lokeshjawale@1996@gmail.com**
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lokeshjawale1996&show_icons=true&locale=en" alt="lokeshjawale1996" /></p>
 
 <!--
 **LokeshJawale1996/LokeshJawale1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
