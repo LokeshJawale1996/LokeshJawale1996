@@ -5,6 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lokeshjawale1996&label=Profile%20views&color=0e75b6&style=flat" alt="lokeshjawale1996" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lokeshjawale1996" alt="lokeshjawale1996" /></a> </p>
 
 📫 Feel Free to Reach me  **lokeshjawale1996@gmail.com**
 <h3 align="left">Connect with me:</h3>
