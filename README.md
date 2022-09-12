@@ -2,6 +2,8 @@
 
 <h3 align="left">Front End Developer  |  HTML,CSS(Tailwind,bootstrap)  |  JavaScript  | jQuery | ReactJs</h3>
 
+[![Lokesh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lokeshjawale1996)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lokeshjawale1996&label=Profile%20views&color=0e75b6&style=flat" alt="lokeshjawale1996" /> </p>
 
 - ✏️ I'm currently working as a Software Engineer.
