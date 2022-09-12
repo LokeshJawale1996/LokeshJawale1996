@@ -2,8 +2,6 @@
 
 <h3 align="left">Front End Developer  |  HTML,CSS(Tailwind,bootstrap)  |  JavaScript  | jQuery | ReactJs</h3>
 
-[![Lokesh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lokeshjawale1996)](https://github.com/anuraghazra/github-readme-stats)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lokeshjawale1996&label=Profile%20views&color=0e75b6&style=flat" alt="lokeshjawale1996" /> </p>
 
 - ✏️ I'm currently working as a Software Engineer.
@@ -26,19 +24,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lokeshjawale1996&show_icons=true&locale=en&layout=compact" alt="lokeshjawale1996" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lokeshjawale1996&show_icons=true&locale=en" alt="lokeshjawale1996" /></p>
-
-<!--
-**LokeshJawale1996/LokeshJawale1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Lokesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=lokeshjawale1996&hide=issues,contribs&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
