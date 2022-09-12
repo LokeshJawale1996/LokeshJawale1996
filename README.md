@@ -27,4 +27,4 @@
 
 <br>
 
-[![Lokesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=lokeshjawale1996&hide=issues,contribs&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=lokeshjawale1996&show_icons=true&locale=en" alt="lokesh" /></p>
