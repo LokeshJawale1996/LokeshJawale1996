@@ -21,12 +21,6 @@
 <a href="https://twitter.com/lokesh_jawale" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2021/04/Twitter-logo.png" alt="lokesh-twitter" height="30" width="40" /></a>
 
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lokeshjawale1996&show_icons=true&locale=en&layout=compact" alt="lokeshjawale1996" /></p>
-<br>
-
-[![Lokesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=lokeshjawale1996&hide=issues,contribs&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshjawale1996&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
