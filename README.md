@@ -5,9 +5,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lokeshjawale1996&label=Profile%20views&color=0e75b6&style=flat" alt="lokeshjawale1996" /> </p>
 
 - ✏️ I'm currently working as a Software Engineer.
-- 💼 I have a Bachelor's degree in Mechanical Engineering.
 - ⚡ My interests are in Frontend Web Development.
-- 💼 I also have a PG Diploma in Advanced Computing from CDAC, Pune.
+- 💼 I completed PG Diploma in Advanced Computing from CDAC, Pune.
 - 📫 Feel Free to Reach me **lokeshjawale1996@gmail.com**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lokeshjawale1996" alt="lokeshjawale1996" /></a> </p>
