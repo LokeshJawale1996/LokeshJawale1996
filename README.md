@@ -1,6 +1,6 @@
 ## 👋Hello there, I'm Lokesh Jawale 🙋‍♂️</h1>
 
-<h3 align="left">Front End Developer  |  HTML,CSS(Tailwind,bootstrap)  |  JavaScript  | jQuery | ReactJs</h3>
+<h3 align="left">Front End Developer  |  HTML,CSS(Tailwind,bootstrap,Material UI)  |  JavaScript  |  TypeScript | ReactJs</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lokeshjawale1996&label=Profile%20views&color=0e75b6&style=flat" alt="lokeshjawale1996" /> </p>
 
